@@ -1,2 +1,0 @@
-# pythonbasics
-Python basics exercises

@@ -40,7 +40,7 @@ def ask_question(player):
 def show_scores():
     print("Scores: ")
     for player in players:
-        print(f"{player} score is: {scores.get(player, 0)}")
+        print(f"{player} score is: {scores[player]}")
 
 def declare_winner():
     high=0

@@ -1,0 +1,33 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Adam",
+            "scores": [
+                8,
+                7,
+                9
+            ],
+            "status": "Participant"
+        },
+        {
+            "id": 2,
+            "name": "Sara",
+            "scores": [
+                9,
+                8,
+                10
+            ],
+            "status": "Winner"
+        },
+        {
+            "id": 3,
+            "name": "Jeff",
+            "scores": [
+                10,
+                9,
+                10
+            ]
+        }
+    ]
+}
